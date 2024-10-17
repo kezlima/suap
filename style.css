@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(60, 90, 92);
+}
+
+h3{
+    color: aliceblue;
+    font-family: sans-serif;
+}
+
+
+
+.form{
+   background-color: rgba(0, 0, 0, 0.5);
+   
+   position:absolute;
+   right: 100px;
+   top: 150px;
+   padding-bottom: 80px;
+   padding-left: 60px;
+   padding-right: 60px;
+   border-radius: 9%;
+        
+      
+}
+.botao{
+    color: green;
+    border-radius: 5%;
+    width: 15px;
+}
+.h2{
+    color: aliceblue;
+}
+
+.h3{
+    color: aliceblue;
+}
+
+.usuario{
+    color: aliceblue;
+}
+
+.senha{
+    color: aliceblue;
+}
+
